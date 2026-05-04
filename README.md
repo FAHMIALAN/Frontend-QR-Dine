@@ -291,6 +291,6 @@ Semua tabel di panel admin menggunakan `overflow-x-auto` sehingga dapat di-scrol
 
 <div align="center">
 
-Dibuat dengan ❤️ menggunakan **Vue.js** + **Tailwind CSS**
+**Vue.js** + **Tailwind CSS**
 
 </div>
